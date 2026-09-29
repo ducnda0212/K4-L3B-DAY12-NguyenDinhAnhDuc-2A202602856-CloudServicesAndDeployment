@@ -4,3 +4,10 @@
 
 .git
 .gitignore
+.github
+
+.env
+.venv
+venv
+
+__pycache__
